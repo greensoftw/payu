@@ -1,0 +1,18 @@
+{
+    "name": "greensoftw/payu",
+    "description": "libreria payu",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "jhon j toloza",
+            "email": "greensofw@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+     "autoload": {
+        "psr-0": {
+            "PayU\\": "src/"
+        }
+    }
+}
