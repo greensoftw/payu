@@ -11,6 +11,6 @@
     "minimum-stability": "stable",
     "require": {},
     "autoload": {
-        "classmap": ["src/PayU"]
+        "classmap": ["src/PayU/"]
     }
 }
