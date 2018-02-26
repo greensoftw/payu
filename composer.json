@@ -10,9 +10,7 @@
     ],
     "minimum-stability": "stable",
     "require": {},
-     "autoload": {
-        "psr-4": {
-            "PayU\\": "src/"
-        }
+    "autoload": {
+        "classmap": "src/PayU"
     }
 }
